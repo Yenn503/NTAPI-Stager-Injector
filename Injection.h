@@ -14,7 +14,7 @@
                 __FILE__, __LINE__, NTSTATUS_ERROR);                      \
     } while (0)
 
-/*--------[CUSTOM STRUCTURES]--------*/
+/*--------[CUSTOM STRUCTURES]--------*/ 
 
 // Removed redefinitions for _OBJECT_ATTRIBUTES and _CLIENT_ID
 
